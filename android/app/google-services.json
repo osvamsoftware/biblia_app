@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082380050255",
+    "firebase_url": "https://biblia-app-56931-default-rtdb.firebaseio.com",
+    "project_id": "biblia-app-56931",
+    "storage_bucket": "biblia-app-56931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082380050255:android:17ce7c5c485c2100eb6f3a",
+        "android_client_info": {
+          "package_name": "com.example.biblia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWBamlDrw7jAdMjUPfmgCtcMRv7dCyeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
