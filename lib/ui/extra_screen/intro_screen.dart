@@ -106,6 +106,9 @@ class IntroScreen extends StatelessWidget {
                         text: '-SEFER A LA KAJAL DE FILADELFIA EN EL TIEMPO DEL FIN\n\n',
                       ),
                       TextSpan(
+                        text: '-CARTA A LAODICEA\n\n',
+                      ),
+                      TextSpan(
                         text:
                             'El orden de los Manuscritos está registrado en LA TANAJ HA TORAH Y EL BRIT JADASHÁ HA YAHSHUA está hecho de tal modo que resalta a Yahweh y Sus Pactos Eternos con todo Yisrael, desde los días del desposorio en el Sinaí, la nación que estaba unida bajo Dawid y Slomoj, y a través de los exilios.\n\n',
                       ),

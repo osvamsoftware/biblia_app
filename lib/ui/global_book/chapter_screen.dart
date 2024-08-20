@@ -8,34 +8,36 @@ class CollectionListScreen extends StatelessWidget {
   static const path = "/collection";
 
   const CollectionListScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return BlocBuilder<GlobalBookCubit, GlobalBookState>(
       builder: (context, booksState) {
         return Scaffold(
-            appBar: AppBar(title: const Text('Colección de Libros')),
-            body: Stack(
-              children: [
-                Container(color: Colors.orange.withOpacity(.2)),
-                ListView.separated(
-                  separatorBuilder: (context, index) => const Divider(),
-                  itemCount: booksState.currentCollection.length,
-                  itemBuilder: (context, index) {
-                    final book = booksState.currentCollection[index];
-                    return ListTile(
-                      title: Text(
-                        "${book.nombre} - ${book.info?.enIvri ?? "--"}",
-                        style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold),
-                      ),
-                      onTap: () {
-                        context.read<GlobalBookCubit>().setBook(index);
-                        context.push(BookDetailScreen.path);
-                      },
-                    );
-                  },
-                ),
-              ],
-            ));
+          appBar: AppBar(title: const Text('Colección de Libros')),
+          body: Stack(
+            children: [
+              Container(color: Colors.orange.withOpacity(.2)),
+              ListView.separated(
+                separatorBuilder: (context, index) => const Divider(),
+                itemCount: booksState.currentCollection.length,
+                itemBuilder: (context, index) {
+                  final book = booksState.currentCollection[index];
+                  return ListTile(
+                    title: Text(
+                      "${book.nombre} - ${book.info?.espaol ?? "--"}",
+                      style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold),
+                    ),
+                    onTap: () {
+                      context.read<GlobalBookCubit>().setBook(index);
+                      context.push(BookDetailScreen.path);
+                    },
+                  );
+                },
+              ),
+            ],
+          ),
+        );
       },
     );
   }
@@ -59,6 +61,26 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
     super.initState();
   }
 
+  List<String> getChapterReferences(int chapterNumber) {
+    final book = context
+        .read<GlobalBookCubit>()
+        .state
+        .currentCollection[context.read<GlobalBookCubit>().state.currentIndexBook ?? 0];
+    final references = book.referencias ?? [];
+    final chapterReferences = <String>[];
+
+    for (var ref in references) {
+      final parts = ref.split(':');
+      if (parts.length > 1) {
+        final chapter = int.tryParse(parts[0]);
+        if (chapter == chapterNumber) {
+          chapterReferences.add(parts[1].trim());
+        }
+      }
+    }
+    return chapterReferences;
+  }
+
   @override
   Widget build(BuildContext context) {
     bool isDarkMode = Theme.of(context).brightness == Brightness.dark;
@@ -70,6 +92,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
 
         // Ordenar los versículos por la llave (número de versículo)
         final sortedVerses = captulo.toList()..sort((a, b) => int.parse(a.key).compareTo(int.parse(b.key)));
+        final chapterReferences = getChapterReferences(state.currentIndexChapter ?? 0);
 
         return Scaffold(
           appBar: AppBar(
@@ -86,8 +109,10 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                 child: TextField(
                   controller: _chapterController,
                   keyboardType: TextInputType.number,
+                  style: TextStyle(color: Colors.white),
                   decoration: const InputDecoration(
                     hintText: 'Capítulo',
+                    hintStyle: TextStyle(color: Colors.white),
                     border: InputBorder.none,
                     contentPadding: EdgeInsets.all(8.0),
                   ),
@@ -174,7 +199,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                 ),
                 ...(sortedVerses).map((entry) {
                   Captulo verse = entry.value;
-                  final referencias_invertidas = verse.referencias?.reversed.toList();
+                  // final referencias_invertidas = verse.referencias?.reversed.toList();
 
                   return Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
@@ -185,23 +210,41 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                         removeInitialCharacters(verse.texto ?? ''),
                         style: const TextStyle(fontSize: 18),
                       ),
-                      if (verse.referencias != null && referencias_invertidas!.isNotEmpty)
-                        Padding(
-                          padding: const EdgeInsets.only(left: 16.0, top: 8.0),
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: verse.referencias!
-                                .map((ref) => SelectableText(
-                                      'Ref: $ref',
-                                      style: const TextStyle(color: Colors.grey),
-                                    ))
-                                .toList(),
-                          ),
-                        ),
-                      const SizedBox(height: 16.0), // Espacio entre versículos
+                      // if (verse.referencias != null && referencias_invertidas!.isNotEmpty)
+                      //   Padding(
+                      //     padding: const EdgeInsets.only(left: 16.0, top: 8.0),
+                      //     child: Column(
+                      //       crossAxisAlignment: CrossAxisAlignment.start,
+                      //       children: verse.referencias!
+                      //           .map((ref) => SelectableText(
+                      //                 'Ref: $ref',
+                      //                 style: const TextStyle(color: Colors.grey),
+                      //               ))
+                      //           .toList(),
+                      //     ),
+                      //   ),
+                      // const SizedBox(height: 16.0), // Espacio entre versículos
                     ],
                   );
                 }),
+                // Mostrar las referencias al final del capítulo
+                if (chapterReferences.isNotEmpty)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 16.0, bottom: 40),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Text(
+                          'Referencias del Capítulo:',
+                          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
+                        ),
+                        ...chapterReferences.map((ref) => SelectableText(
+                              'Ref: $ref',
+                              style: const TextStyle(),
+                            )),
+                      ],
+                    ),
+                  ),
               ]),
               Positioned(
                 bottom: 30,
@@ -251,6 +294,14 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
 }
 
 String removeInitialCharacters(String input) {
-  List<String> parts = input.split(' ');
-  return parts.sublist(1).join(' ');
+  // Reemplaza cada punto con un salto de línea
+  String formattedText = input.replaceAll('. ', '.\n');
+  // Elimina el primer carácter si es un espacio después del formato
+  List<String> parts = formattedText.split(' ');
+  if (parts.isNotEmpty && parts.first.isEmpty) {
+    formattedText = parts.sublist(1).join(' ');
+  }
+
+  List<String> parts2 = formattedText.split(' ');
+  return parts2.sublist(1).join(' ');
 }

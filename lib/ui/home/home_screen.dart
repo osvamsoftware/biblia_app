@@ -157,31 +157,38 @@ class HomeScreen extends StatelessWidget {
                     return SizedBox(
                       height: MediaQuery.sizeOf(context).height * .3,
                       width: double.infinity,
-                      child: AlertDialog(
-                        title: const Text('Ajustar el tamaño de la fuente'),
-                        content: BlocBuilder<FontSizeCubit, double>(
-                          builder: (context, fontSize) {
-                            return Slider(
-                              value: fontSize,
-                              min: 0.8,
-                              max: 1.5,
-                              divisions: 7,
-                              label: '${(fontSize * 100).toInt()}%',
-                              onChanged: (value) {
-                                context.read<FontSizeCubit>().updateFontSize(value);
-                              },
-                            );
-                          },
-                        ),
-                        actions: <Widget>[
-                          TextButton(
-                            child: const Text(style: TextStyle(color: Colors.white), 'Aceptar'),
-                            onPressed: () {
-                              Navigator.of(context).pop();
-                            },
-                          ),
-                        ],
-                      ),
+                      child: Dialog(child: BlocBuilder<FontSizeCubit, double>(
+                        builder: (context, fontSize) {
+                          return SizedBox(
+                            height: 200,
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Padding(
+                                  padding: const EdgeInsets.all(8.0),
+                                  child: Text(
+                                      'Elige una escala de la fuente, y reinicia la app para aplicar los cambios.'),
+                                ),
+                                Slider(
+                                  value: fontSize,
+                                  min: 0.8,
+                                  max: 1.5,
+                                  divisions: 7,
+                                  label: '${(fontSize * 100).toInt()}%',
+                                  onChanged: (value) {
+                                    context.read<FontSizeCubit>().updateFontSize(value);
+                                  },
+                                ),
+                                ElevatedButton(
+                                    onPressed: () {
+                                      Navigator.of(context).pop();
+                                    },
+                                    child: Text('Aceptar'))
+                              ],
+                            ),
+                          );
+                        },
+                      )),
                     );
                   },
                 );

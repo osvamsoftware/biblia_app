@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
         return BlocBuilder<ThemeCubit, ThemeData>(
           builder: (context, theme) {
             return MaterialApp.router(
+              debugShowCheckedModeBanner: false,
               theme: theme,
               routerConfig: router,
               title: 'Biblia App',

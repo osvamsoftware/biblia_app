@@ -3,22 +3,26 @@ import 'dart:convert';
 class BookModel {
   final String? nombre;
   final Info? info;
+  final List<String>? referencias;
   final Map<String, Map<String, Captulo>>? captulos;
 
   BookModel({
     this.nombre,
     this.info,
+    this.referencias,
     this.captulos,
   });
 
   BookModel copyWith({
     String? nombre,
     Info? info,
+    List<String>? referencias,
     Map<String, Map<String, Captulo>>? captulos,
   }) =>
       BookModel(
         nombre: nombre ?? this.nombre,
         info: info ?? this.info,
+        referencias: referencias ?? this.referencias,
         captulos: captulos ?? this.captulos,
       );
 
@@ -29,6 +33,7 @@ class BookModel {
   factory BookModel.fromMap(Map<String, dynamic> json) => BookModel(
         nombre: json["nombre"],
         info: json["info"] == null ? null : Info.fromMap(json["info"]),
+        referencias: json["referencias"] == null ? [] : List<String>.from(json["referencias"]!.map((x) => x)),
         captulos: Map.from(json["capítulos"]!).map((k, v) => MapEntry<String, Map<String, Captulo>>(
             k, Map.from(v).map((k, v) => MapEntry<String, Captulo>(k, Captulo.fromMap(v))))),
       );
@@ -36,6 +41,7 @@ class BookModel {
   Map<String, dynamic> toMap() => {
         "nombre": nombre,
         "info": info?.toMap(),
+        "referencias": referencias == null ? [] : List<dynamic>.from(referencias!.map((x) => x)),
         "capítulos": Map.from(captulos!).map(
             (k, v) => MapEntry<String, dynamic>(k, Map.from(v).map((k, v) => MapEntry<String, dynamic>(k, v.toMap())))),
       };
