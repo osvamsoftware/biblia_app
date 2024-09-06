@@ -70,11 +70,11 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
     final chapterReferences = <String>[];
 
     for (var ref in references) {
-      final parts = ref.split(':');
-      if (parts.length > 1) {
-        final chapter = int.tryParse(parts[0]);
+      final potentialChapter = ref.substring(0, 7).split(':');
+      if (potentialChapter.length > 1) {
+        final chapter = int.tryParse(potentialChapter[0].trim());
         if (chapter == chapterNumber) {
-          chapterReferences.add(parts[1].trim());
+          chapterReferences.add(ref);
         }
       }
     }
@@ -90,7 +90,6 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                 .captulos?[state.currentIndexChapter.toString()]?.entries ??
             [];
 
-        // Ordenar los versículos por la llave (número de versículo)
         final sortedVerses = captulo.toList()..sort((a, b) => int.parse(a.key).compareTo(int.parse(b.key)));
         final chapterReferences = getChapterReferences(state.currentIndexChapter ?? 0);
 
@@ -98,7 +97,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
           appBar: AppBar(
             title: Text(state.currentCollection[state.currentIndexBook ?? 0].nombre ?? 'Libro'),
             leading: IconButton(
-              icon: const Icon(Icons.arrow_back), // Ícono de la flecha
+              icon: const Icon(Icons.arrow_back),
               onPressed: () {
                 Navigator.pop(context);
               },
@@ -172,13 +171,18 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                           fontSize: 36,
                         ),
                       ),
-                      Text(
-                        "Español:  ${state.currentCollection[state.currentIndexBook ?? 0].info?.espaol ?? 'Libro'}",
-                        style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold),
-                      ),
-                      Text(
-                          "Significado: ${state.currentCollection[state.currentIndexBook ?? 0].info?.significado ?? 'Libro'}",
-                          style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold)),
+                      if (state.currentCollection[state.currentIndexBook ?? 0].info?.espaol != "-")
+                        Text(
+                          "Español:  ${state.currentCollection[state.currentIndexBook ?? 0].info?.espaol ?? 'Libro'}",
+                          style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold),
+                        ),
+                      (state.currentCollection[state.currentIndexBook ?? 0].info?.espaol != "-")
+                          ? Text(
+                              "Significado: ${state.currentCollection[state.currentIndexBook ?? 0].info?.significado ?? 'Libro'}",
+                              style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold))
+                          : Text(
+                              "Sefer a la Kajal de Filadelfia en el Tiempo del Fin  (año Jubilar 6000) A todas las Comunidades Yisraelitas en Yahshua en el Tiempo del Fin.",
+                              style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold)),
                     ],
                   ),
                 const SizedBox(
@@ -198,7 +202,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                   ],
                 ),
                 ...(sortedVerses).map((entry) {
-                  Captulo verse = entry.value;
+                  String verse = entry.value;
                   // final referencias_invertidas = verse.referencias?.reversed.toList();
 
                   return Column(
@@ -207,7 +211,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                       SelectableText(entry.key,
                           style: const TextStyle(fontFamily: 'Papyrus', fontSize: 22, fontWeight: FontWeight.bold)),
                       SelectableText(
-                        removeInitialCharacters(verse.texto ?? ''),
+                        verse.replaceAll('. ', '.\n'),
                         style: const TextStyle(fontSize: 18),
                       ),
                       // if (verse.referencias != null && referencias_invertidas!.isNotEmpty)
@@ -230,7 +234,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                 // Mostrar las referencias al final del capítulo
                 if (chapterReferences.isNotEmpty)
                   Padding(
-                    padding: const EdgeInsets.only(top: 16.0, bottom: 40),
+                    padding: const EdgeInsets.only(top: 16.0),
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
@@ -245,6 +249,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                       ],
                     ),
                   ),
+                SizedBox(height: 70)
               ]),
               Positioned(
                 bottom: 30,
@@ -267,6 +272,7 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
                               style: IconButton.styleFrom(backgroundColor: Colors.orange.shade400),
                             )
                           : const SizedBox(),
+                      SizedBox(width: 20),
                       (state.currentCollection[state.currentIndexBook ?? 0]
                                   .captulos?[((state.currentIndexChapter ?? 0) + 1).toString()]?.isNotEmpty ??
                               false)

@@ -1,0 +1,1850 @@
+[
+    {
+        "Transliteración en Español": "Shemot",
+        "Español": "Éxodo",
+        "Transliteration in English": "Shemot",
+        "English": "Exodus",
+        "Hebrew/Original Words": "שְׁמוֹת"
+    },
+    {
+        "Transliteración en Español": "Vayikrá",
+        "Español": "Levítico",
+        "Transliteration in English": "Vayikra",
+        "English": "Leviticus",
+        "Hebrew/Original Words": "וַיִּקְרָא"
+    },
+    {
+        "Transliteración en Español": "Bemidbar",
+        "Español": "Números",
+        "Transliteration in English": "Bemidbar",
+        "English": "Numbers",
+        "Hebrew/Original Words": "בְּמִדְבַּר"
+    },
+    {
+        "Transliteración en Español": "Devarim",
+        "Español": "Deuteronómio",
+        "Transliteration in English": "Devarim",
+        "English": "Deuteronomy",
+        "Hebrew/Original Words": "דְּבָרִים"
+    },
+    {
+        "Transliteración en Español": "Yanojk",
+        "Español": "Enoc",
+        "Transliteration in English": "Chanokh",
+        "English": "Enoch",
+        "Hebrew/Original Words": "חֲנוֹךְ"
+    },
+    {
+        "Transliteración en Español": "Yashar/Yasher",
+        "Español": "Yasar/Yaser",
+        "Transliteration in English": "Yashar/Yasher",
+        "English": "Jashar/Jasher",
+        "Hebrew/Original Words": "יָשָׁר"
+    },
+    {
+        "Transliteración en Español": "Yahoshúa",
+        "Español": "Josué",
+        "Transliteration in English": "Yahoshua",
+        "English": "Joshua",
+        "Hebrew/Original Words": "יָהוֹשׁוּעַ"
+    },
+    {
+        "Transliteración en Español": "Mashafa Kufale",
+        "Español": "Jubileos",
+        "Transliteration in English": "Mashapha Kuphale",
+        "English": "Jubilees",
+        "Hebrew/Original Words": "መጽሐፈ ኩፋሌ"
+    },
+    {
+        "Transliteración en Español": "Shofetim",
+        "Español": "Jueces",
+        "Transliteration in English": "Shophetim",
+        "English": "Judges",
+        "Hebrew/Original Words": "שֹׁפְטִים"
+    },
+    {
+        "Transliteración en Español": "Shemuel Alef",
+        "Español": "1 de Samuel",
+        "Transliteration in English": "Shmuel Aleph",
+        "English": "1 Samuel",
+        "Hebrew/Original Words": "שְׁמוּאֵל א"
+    },
+    {
+        "Transliteración en Español": "Shemuel Bet",
+        "Español": "2 de Samuel",
+        "Transliteration in English": "Shmuel Beth",
+        "English": "2 Samuel",
+        "Hebrew/Original Words": "שְׁמוּאֵל ב"
+    },
+    {
+        "Transliteración en Español": "Melajim Alef",
+        "Español": "1 de Reyes",
+        "Transliteration in English": "Melachim Aleph",
+        "English": "1 Kings",
+        "Hebrew/Original Words": "מְלָכִים א"
+    },
+    {
+        "Transliteración en Español": "Melajim Bet",
+        "Español": "2 de Reyes",
+        "Transliteration in English": "Melachim Beth",
+        "English": "2 Kings",
+        "Hebrew/Original Words": "מְלָכִים ב"
+    },
+    {
+        "Transliteración en Español": "YeshaYah",
+        "Español": "Isaías",
+        "Transliteration in English": "YeshaYah",
+        "English": "Isaiah",
+        "Hebrew/Original Words": "יְשַׁעְיָה"
+    },
+    {
+        "Transliteración en Español": "YirmeYah",
+        "Español": "Jeremías",
+        "Transliteration in English": "YirmeYah",
+        "English": "Jeremiah",
+        "Hebrew/Original Words": "יִרְמְיָה"
+    },
+    {
+        "Transliteración en Español": "Yejezqel",
+        "Español": "Ezequiel",
+        "Transliteration in English": "Yechezkel",
+        "English": "Ezekiel",
+        "Hebrew/Original Words": "יְחֶזְקֵאל"
+    },
+    {
+        "Transliteración en Español": "Hoshea",
+        "Español": "Oséas",
+        "Transliteration in English": "Hoshea",
+        "English": "Hosea",
+        "Hebrew/Original Words": "הוֹשֵׁעַ"
+    },
+    {
+        "Transliteración en Español": "Yoel",
+        "Español": "Joel",
+        "Transliteration in English": "Yoel",
+        "English": "Joel",
+        "Hebrew/Original Words": "יוֹאֵל"
+    },
+    {
+        "Transliteración en Español": "Amos",
+        "Español": "Amós",
+        "Transliteration in English": "Amos",
+        "English": "Amos",
+        "Hebrew/Original Words": "עָמוֹס‎"
+    },
+    {
+        "Transliteración en Español": "OvadYah",
+        "Español": "Obadías",
+        "Transliteration in English": "OvadYah",
+        "English": "Obadiah",
+        "Hebrew/Original Words": "עֹבַדְיָה"
+    },
+    {
+        "Transliteración en Español": "Yonah",
+        "Español": "Jonás",
+        "Transliteration in English": "Yonah",
+        "English": "Jonah",
+        "Hebrew/Original Words": "יוֹנָה"
+    },
+    {
+        "Transliteración en Español": "MikaYah",
+        "Español": "Miquéas",
+        "Transliteration in English": "MikaYah",
+        "English": "Micah",
+        "Hebrew/Original Words": "מִיכָיָה"
+    },
+    {
+        "Transliteración en Español": "Najum",
+        "Español": "Nahum",
+        "Transliteration in English": "Nachum",
+        "English": "Nahum",
+        "Hebrew/Original Words": "נַחוּם"
+    },
+    {
+        "Transliteración en Español": "Habakuk",
+        "Español": "Habacuc",
+        "Transliteration in English": "Chabaqquq",
+        "English": "Habakkuk",
+        "Hebrew/Original Words": "חֲבַקּוּק"
+    },
+    {
+        "Transliteración en Español": "TzefanYah",
+        "Español": "Sofonías",
+        "Transliteration in English": "TzefanYah",
+        "English": "Zephaniah",
+        "Hebrew/Original Words": "צְפַנְיָה"
+    },
+    {
+        "Transliteración en Español": "Haggay",
+        "Español": "Hageo",
+        "Transliteration in English": "Chaggay",
+        "English": "Haggai",
+        "Hebrew/Original Words": "חַגַּי"
+    },
+    {
+        "Transliteración en Español": "ZekarYah",
+        "Español": "Zacarías",
+        "Transliteration in English": "ZekarYah",
+        "English": "Zechariah",
+        "Hebrew/Original Words": "זְכַרְיָה"
+    },
+    {
+        "Transliteración en Español": "Malaki",
+        "Español": "Malaquías",
+        "Transliteration in English": "Malachi",
+        "English": "Malachi",
+        "Hebrew/Original Words": "מַלְאָכִי"
+    },
+    {
+        "Transliteración en Español": "Tehilim",
+        "Español": "Salmos",
+        "Transliteration in English": "Tehillim",
+        "English": "Psalms",
+        "Hebrew/Original Words": "תְּהִילִים"
+    },
+    {
+        "Transliteración en Español": "Mishlei",
+        "Español": "Proverbios",
+        "Transliteration in English": "Mishlei",
+        "English": "Proverbs",
+        "Hebrew/Original Words": "מִשְׁלֵי"
+    },
+    {
+        "Transliteración en Español": "Iyob",
+        "Español": "Job",
+        "Transliteration in English": "Iyyob",
+        "English": "Job",
+        "Hebrew/Original Words": "אִיּוֹב"
+    },
+    {
+        "Transliteración en Español": "Shir HaShirim",
+        "Español": "Cantar de los Cantares",
+        "Transliteration in English": "Shir HaShirim",
+        "English": "Songs of Songs",
+        "Hebrew/Original Words": "שִׁיר הַשִּׁירִים"
+    },
+    {
+        "Transliteración en Español": "Rut",
+        "Español": "Rut",
+        "Transliteration in English": "Ruth",
+        "English": "Ruth",
+        "Hebrew/Original Words": "רוּת"
+    },
+    {
+        "Transliteración en Español": "Eykah",
+        "Español": "Lamentaciones",
+        "Transliteration in English": "Eykhah",
+        "English": "Lamentations",
+        "Hebrew/Original Words": "אֵיכָה"
+    },
+    {
+        "Transliteración en Español": "Qohelet",
+        "Español": "Eclesiastés",
+        "Transliteration in English": "Qohelet",
+        "English": "Ecclesiastes",
+        "Hebrew/Original Words": "קֹהֶלֶת"
+    },
+    {
+        "Transliteración en Español": "Ester",
+        "Español": "Ester",
+        "Transliteration in English": "Esther",
+        "English": "Esther",
+        "Hebrew/Original Words": "אסתר/אֶסְתֵּר"
+    },
+    {
+        "Transliteración en Español": "Daniyel",
+        "Español": "Daniel",
+        "Transliteration in English": "Daniyel",
+        "English": "Daniel",
+        "Hebrew/Original Words": "דָּנִיאֵל"
+    },
+    {
+        "Transliteración en Español": "Ezra",
+        "Español": "Esdra",
+        "Transliteration in English": "Ezra",
+        "English": "Ezra",
+        "Hebrew/Original Words": "עֶזְרָא"
+    },
+    {
+        "Transliteración en Español": "NejemYah",
+        "Español": "Nehemías",
+        "Transliteration in English": "NechemYah",
+        "English": "Nehemiah",
+        "Hebrew/Original Words": "נְחֶמְיָה"
+    },
+    {
+        "Transliteración en Español": "Divrei HaYamim Alef",
+        "Español": "1 de Crónicas",
+        "Transliteration in English": "Divrei HaYamim Aleph",
+        "English": "1 Chronicles",
+        "Hebrew/Original Words": "דִּבְרֵי הַיָּמִים א"
+    },
+    {
+        "Transliteración en Español": "Divrei HaYamim Bet",
+        "Español": "2 de Crónicas",
+        "Transliteration in English": "Divrei HaYamim Beth",
+        "English": "2 Chronicles",
+        "Hebrew/Original Words": "דִּבְרֵי הַיָּמִים ב"
+    },
+    {
+        "Transliteración en Español": "MattiYah",
+        "Español": "Mateo",
+        "Transliteration in English": "MattiYah",
+        "English": "Matthew",
+        "Hebrew/Original Words": "מַתִּיָה"
+    },
+    {
+        "Transliteración en Español": "Mardokhay",
+        "Español": "Marcos",
+        "Transliteration in English": "Mardokhay",
+        "English": "Mark",
+        "Hebrew/Original Words": "מָרְדֳּכַי"
+    },
+    {
+        "Transliteración en Español": "Silvano",
+        "Español": "Silvano",
+        "Transliteration in English": "Silvano/Silas",
+        "English": "Silvano",
+        "Hebrew/Original Words": ""
+    },
+    {
+        "Transliteración en Español": "Yohanán",
+        "Español": "Juan",
+        "Transliteration in English": "Yochanan",
+        "English": "John",
+        "Hebrew/Original Words": "יוֹחָנָן"
+    },
+    {
+        "Transliteración en Español": "Tomas",
+        "Español": "Tomás/Dídimo",
+        "Transliteration in English": "Thómas",
+        "English": "Thomas | Sayings of Yahshua (the twin)",
+        "Hebrew/Original Words": "טוֹמָס|Θωμᾶς"
+    },
+    {
+        "Transliteración en Español": "Maaseh Shalujim",
+        "Español": "Hechos",
+        "Transliteration in English": "Maaseh Sheluchim",
+        "English": "Acts",
+        "Hebrew/Original Words": "מַעֲשֶׂה שְלִיחִים"
+    },
+    {
+        "Transliteración en Español": "Romaniyim",
+        "Español": "Romanos",
+        "Transliteration in English": "Romaniyim/ Rhómaios",
+        "English": "Romans",
+        "Hebrew/Original Words": "הרומאים | Ῥωμαῖος"
+    },
+    {
+        "Transliteración en Español": "Qorintiyim Alef",
+        "Español": "1 de Corintios",
+        "Transliteration in English": "Qorintiyim Aleph",
+        "English": "1 Corinthians",
+        "Hebrew/Original Words": "הקורינתיים א"
+    },
+    {
+        "Transliteración en Español": "Qorintiyim Bet",
+        "Español": "2 de Corintios",
+        "Transliteration in English": "Qorintiyim Beth",
+        "English": "2 Corinthians",
+        "Hebrew/Original Words": "הקורינתיים ב"
+    },
+    {
+        "Transliteración en Español": "Galatiyim",
+        "Español": "Gálatas",
+        "Transliteration in English": "Galatiyim/Galatai",
+        "English": "Galatians",
+        "Hebrew/Original Words": "הגלטיים | Γαλάται"
+    },
+    {
+        "Transliteración en Español": "Efesiyim",
+        "Español": "Efesios",
+        "Transliteration in English": "Ephesiyim/Efesos",
+        "English": "Ephesians",
+        "Hebrew/Original Words": "אפסיים | Ἔφεσος"
+    },
+    {
+        "Transliteración en Español": "Filipiyim",
+        "Español": "Filipenses",
+        "Transliteration in English": "Phillipiyim/Phillipoi",
+        "English": "Phillipians",
+        "Hebrew/Original Words": "הפיליפים | Φίλιπποι"
+    },
+    {
+        "Transliteración en Español": "Qolosiyim",
+        "Español": "Colosenses",
+        "Transliteration in English": "Qolosiyim/Colossae",
+        "English": "Colossians",
+        "Hebrew/Original Words": "הקולוסים | Κολοσσαί"
+    },
+    {
+        "Transliteración en Español": "Tesalonikim Alef",
+        "Español": "1 de Tesalonicenses",
+        "Transliteration in English": "Tesaloniqim Aleph/ Thessalonikeōn I",
+        "English": "1 Thessalonians",
+        "Hebrew/Original Words": "התסלוניקים א | Θεσσαλονικέων I"
+    },
+    {
+        "Transliteración en Español": "Tesalonikim Bet",
+        "Español": "2 de Tesalonicenses",
+        "Transliteration in English": "Tesaloniqim Beth/ Thessalonikeōn II",
+        "English": "2 Thessalonians",
+        "Hebrew/Original Words": "התסלוניקים | Θεσσαλονικέων I"
+    },
+    {
+        "Transliteración en Español": "Timoti Alef",
+        "Español": "1 de Timoteo",
+        "Transliteration in English": "Timoty Aleph/ Timotheos I",
+        "English": "1 Timothy",
+        "Hebrew/Original Words": "טימותי א | Τιμόθεος I"
+    },
+    {
+        "Transliteración en Español": "Timoti Bet",
+        "Español": "2 de Timoteo",
+        "Transliteration in English": "Timoty Beth/ Timotheos II",
+        "English": "2 Timothy",
+        "Hebrew/Original Words": "טימותי ב | Τιμόθεος II"
+    },
+    {
+        "Transliteración en Español": "Titos",
+        "Español": "Tito",
+        "Transliteration in English": "Titos",
+        "English": "Titus",
+        "Hebrew/Original Words": "טיטוס | Τίτος"
+    },
+    {
+        "Transliteración en Español": "Filemom",
+        "Español": "Filemón",
+        "Transliteration in English": "Philemon",
+        "English": "Philemon",
+        "Hebrew/Original Words": "פילימון | Φιλήμων"
+    },
+    {
+        "Transliteración en Español": "Ivrim",
+        "Español": "Hebreos",
+        "Transliteration in English": "Ivrim",
+        "English": "Hebrews",
+        "Hebrew/Original Words": "עברים"
+    },
+    {
+        "Transliteración en Español": "Clemente",
+        "Español": "Clemente",
+        "Transliteration in English": "Clemente",
+        "English": "Clement",
+        "Hebrew/Original Words": "קלמנטה | ήπιος"
+    },
+    {
+        "Transliteración en Español": "Ya'akov",
+        "Español": "Santiago",
+        "Transliteration in English": "Ya’akov",
+        "English": "James",
+        "Hebrew/Original Words": "יעקב"
+    },
+    {
+        "Transliteración en Español": "Kefa Alef",
+        "Español": "1 de Pedro",
+        "Transliteration in English": "Kepha Aleph",
+        "English": "1 Peter",
+        "Hebrew/Original Words": "קפה א"
+    },
+    {
+        "Transliteración en Español": "Kefa Bet",
+        "Español": "2 de Pedro",
+        "Transliteration in English": "Kepha Beth",
+        "English": "2 Peter",
+        "Hebrew/Original Words": "קפה ב"
+    },
+    {
+        "Transliteración en Español": "Yojanan Alef",
+        "Español": "1 de Juan",
+        "Transliteration in English": "Yochanan Aleph",
+        "English": "1 John",
+        "Hebrew/Original Words": "יוחנן א"
+    },
+    {
+        "Transliteración en Español": "Yojanan Bet",
+        "Español": "2 de Juan",
+        "Transliteration in English": "Yochanan Beth",
+        "English": "2 John",
+        "Hebrew/Original Words": "יוחנן ב"
+    },
+    {
+        "Transliteración en Español": "Yojanan Gimel",
+        "Español": "3 de Juan",
+        "Transliteration in English": "Yochanan Gimel",
+        "English": "3 John",
+        "Hebrew/Original Words": "יוחנן ג"
+    },
+    {
+        "Transliteración en Español": "Yahuda",
+        "Español": "Judas",
+        "Transliteration in English": "Yahudah",
+        "English": "Judas",
+        "Hebrew/Original Words": "יהודה"
+    },
+    {
+        "Transliteración en Español": "Hitgalut",
+        "Español": "Apocalipsis",
+        "Transliteration in English": "Hitgalut",
+        "English": "Revelations",
+        "Hebrew/Original Words": "התגלות"
+    },
+    {
+        "Transliteración en Español": "Yahweh",
+        "Español": "Yo Seré el que Seré",
+        "Transliteration in English": "Yahweh",
+        "English": "I am who I am",
+        "Hebrew/Original Words": "יהוה"
+    },
+    {
+        "Transliteración en Español": "Yahshua",
+        "Español": "Salvación de Yahweh",
+        "Transliteration in English": "Yahshua",
+        "English": "Salvation of Yahweh",
+        "Hebrew/Original Words": "יהשע"
+    },
+    {
+        "Transliteración en Español": "Ruaj HaKodesh",
+        "Español": "El Espíritu Santo",
+        "Transliteration in English": "Ruach HaKodesh",
+        "English": "The Holy Spirit",
+        "Hebrew/Original Words": "רוח הקודש"
+    },
+    {
+        "Transliteración en Español": "Abba",
+        "Español": "Padre,Papá",
+        "Transliteration in English": "Abba",
+        "English": "Father",
+        "Hebrew/Original Words": "אבא"
+    },
+    {
+        "Transliteración en Español": "Adon",
+        "Español": "Amo/ Dueño",
+        "Transliteration in English": "Adon",
+        "English": "Master",
+        "Hebrew/Original Words": "אדון"
+    },
+    {
+        "Transliteración en Español": "Adoneinu",
+        "Español": "Nuestro Amo/ Dueño",
+        "Transliteration in English": "Adoneinu",
+        "English": "Our Master",
+        "Hebrew/Original Words": "אדונינו"
+    },
+    {
+        "Transliteración en Español": "Ahava",
+        "Español": "Amor; tener afecto, ser amigo",
+        "Transliteration in English": "Ahavah",
+        "English": "Love; to have affection; to befriend",
+        "Hebrew/Original Words": "אחווה"
+    },
+    {
+        "Transliteración en Español": "Ajayot",
+        "Español": "Hermanas",
+        "Transliteration in English": "Achayot",
+        "English": "Sisters",
+        "Hebrew/Original Words": "אחיות"
+    },
+    {
+        "Transliteración en Español": "Aji",
+        "Español": "Mi Hermano",
+        "Transliteration in English": "Achi",
+        "English": "My Brother",
+        "Hebrew/Original Words": "אחי"
+    },
+    {
+        "Transliteración en Español": "Ajim",
+        "Español": "Hermanos",
+        "Transliteration in English": "Achim",
+        "English": "Brothers",
+        "Hebrew/Original Words": "אחים"
+    },
+    {
+        "Transliteración en Español": "Ajot",
+        "Español": "Hermana",
+        "Transliteration in English": "Achot",
+        "English": "Sister",
+        "Hebrew/Original Words": "אחות"
+    },
+    {
+        "Transliteración en Español": "Alef-Tav",
+        "Español": "Principio y Fin",
+        "Transliteration in English": "Aleph-Tav",
+        "English": "Beginning and End",
+        "Hebrew/Original Words": "את"
+    },
+    {
+        "Transliteración en Español": "Asher",
+        "Español": "Feliz, afortunado, bendecido",
+        "Transliteration in English": "Asher",
+        "English": "Happy; fortunate; blessed",
+        "Hebrew/Original Words": "אשר"
+    },
+    {
+        "Transliteración en Español": "Avadim",
+        "Español": "Esclavos; siervos",
+        "Transliteration in English": "Avadim",
+        "English": "Slaves; servants",
+        "Hebrew/Original Words": "עבדים"
+    },
+    {
+        "Transliteración en Español": "Avraham",
+        "Español": "Abraham",
+        "Transliteration in English": "Avraham",
+        "English": "Abraham",
+        "Hebrew/Original Words": "אַבְרָהָם"
+    },
+    {
+        "Transliteración en Español": "Avinu",
+        "Español": "Nuestro Padre",
+        "Transliteration in English": "Avinu",
+        "English": "Our Father",
+        "Hebrew/Original Words": "אבינו"
+    },
+    {
+        "Transliteración en Español": "Aseret",
+        "Español": "Diez",
+        "Transliteration in English": "Aseret",
+        "English": "Ten",
+        "Hebrew/Original Words": "עשרת"
+    },
+    {
+        "Transliteración en Español": "Aseret HaDibrot",
+        "Español": "Los Diez Palabras \n(Mal traducido como Los 10 Mandamientos)",
+        "Transliteration in English": "Aseret HaDibrot",
+        "English": "The Ten Words (Mistranslated as The Ten Commandments)",
+        "Hebrew/Original Words": "עשרת הדיברות"
+    },
+    {
+        "Transliteración en Español": "Baal Shamein",
+        "Español": "Señor de los cielos",
+        "Transliteration in English": "Baal Shamein",
+        "English": "Lord of the heavens",
+        "Hebrew/Original Words": "בָּעַל שָׁמֵן"
+    },
+    {
+        "Transliteración en Español": "Baruj",
+        "Español": "Bendecido",
+        "Transliteration in English": "Baruch",
+        "English": "Blessed",
+        "Hebrew/Original Words": "ברוך"
+    },
+    {
+        "Transliteración en Español": "Baruj HaShem Yahweh",
+        "Español": "Bendito el Nombre de Yah’",
+        "Transliteration in English": "Baruch HaShem Yahweh",
+        "English": "Blessed be the Name Yahweh",
+        "Hebrew/Original Words": "ברוך השם יהוה"
+    },
+    {
+        "Transliteración en Español": "Baruj Ata",
+        "Español": "Bendito seas",
+        "Transliteration in English": "Baruch Ata",
+        "English": "Blessed are you",
+        "Hebrew/Original Words": "ברוך אתא"
+    },
+    {
+        "Transliteración en Español": "Bat",
+        "Español": "Hija",
+        "Transliteration in English": "Bat",
+        "English": "Daughter",
+        "Hebrew/Original Words": "בת"
+    },
+    {
+        "Transliteración en Español": "Bayit",
+        "Español": "Casa, hogar",
+        "Transliteration in English": "Bayith",
+        "English": "House; home",
+        "Hebrew/Original Words": "בּיִת"
+    },
+    {
+        "Transliteración en Español": "Betel",
+        "Español": "Casa de Elohe",
+        "Transliteration in English": "Betheel",
+        "English": "House of Elohe",
+        "Hebrew/Original Words": "בֵּית־אֵל"
+    },
+    {
+        "Transliteración en Español": "Beit HaMikdash",
+        "Español": "Casa de; Templo\nEjemplo: Casa de Santidad\nTemplo de Santidad;",
+        "Transliteration in English": "Beit HaMikdash",
+        "English": "House of; Temple\nExample: Beit HaMikdash;\nTemple of Sanctity;\nExample: Beit Kemesol;\nHouse of Assembly; Synagogue",
+        "Hebrew/Original Words": "בֵּית־ הַמִּקְדָּשׁ"
+    },
+    {
+        "Transliteración en Español": "Beit Lejem",
+        "Español": "Casa del Pan",
+        "Transliteration in English": "Beit Lechem",
+        "English": "House of Bread",
+        "Hebrew/Original Words": "בֵּית לֶחֶם"
+    },
+    {
+        "Transliteración en Español": "Ben",
+        "Español": "Hijo",
+        "Transliteration in English": "Ben",
+        "English": "Son",
+        "Hebrew/Original Words": "בֶּן"
+    },
+    {
+        "Transliteración en Español": "Bejor",
+        "Español": "Primogénito",
+        "Transliteration in English": "Bechor",
+        "English": "Firstborn",
+        "Hebrew/Original Words": "בְּכוֹר"
+    },
+    {
+        "Transliteración en Español": "Benei",
+        "Español": "Hijos - Hijos de\nEjemplo: Hijos de Israel \n(Benei Yisrael)\nבני ישראל",
+        "Transliteration in English": "Benai",
+        "English": "Sons - Sons of\nExample: Sons of Israel \n(Benai Yisrael)\nבני ישראל",
+        "Hebrew/Original Words": "בְּנֵי"
+    },
+    {
+        "Transliteración en Español": "Beraja",
+        "Español": "Bendición",
+        "Transliteration in English": "Beracha",
+        "English": "Blessing",
+        "Hebrew/Original Words": "ברכה"
+    },
+    {
+        "Transliteración en Español": "Berajot",
+        "Español": "Bendiciones",
+        "Transliteration in English": "Berachot",
+        "English": "Blessings",
+        "Hebrew/Original Words": "ברכות"
+    },
+    {
+        "Transliteración en Español": "Besora",
+        "Español": "Buenas nuevas; evangelio",
+        "Transliteration in English": "Besorah",
+        "English": "Good-news; gospel",
+        "Hebrew/Original Words": "בשורה"
+    },
+    {
+        "Transliteración en Español": "Birkat/Berajat",
+        "Español": "Bendición (Oración)",
+        "Transliteration in English": "Birkat/Berachat",
+        "English": "Blessing (Prayer)",
+        "Hebrew/Original Words": "ברכת"
+    },
+    {
+        "Transliteración en Español": "Birkat Kojanim",
+        "Español": "Bendición Sacerdotal",
+        "Transliteration in English": "Birkat Kohanim",
+        "English": "Priestly Blessing",
+        "Hebrew/Original Words": "ברכת כהנים"
+    },
+    {
+        "Transliteración en Español": "Boker tov",
+        "Español": "Buenos dias",
+        "Transliteration in English": "Boker tov",
+        "English": "Good morning",
+        "Hebrew/Original Words": "בוקר טוב"
+    },
+    {
+        "Transliteración en Español": "Brit",
+        "Español": "Alianza",
+        "Transliteration in English": "Brit/Berit",
+        "English": "Covenant",
+        "Hebrew/Original Words": "רית"
+    },
+    {
+        "Transliteración en Español": "Brit Jadasha",
+        "Español": "Nueva Alianza; nuevo pacto",
+        "Transliteration in English": "Brit Chadashah",
+        "English": "New Covenant; New pact",
+        "Hebrew/Original Words": "ברית החדשה"
+    },
+    {
+        "Transliteración en Español": "Brit Milá",
+        "Español": "Pacto de circuncisión",
+        "Transliteration in English": "Brit Milah",
+        "English": "Circumcision Covenant or pact",
+        "Hebrew/Original Words": "ברית מילה"
+    },
+    {
+        "Transliteración en Español": "Jag",
+        "Español": "Fiesta o Festival",
+        "Transliteration in English": "Chag",
+        "English": "Feast or Festival",
+        "Hebrew/Original Words": "חג"
+    },
+    {
+        "Transliteración en Español": "Jag JaMatzot",
+        "Español": "Fiesta de Panes Sin Levadura",
+        "Transliteration in English": "Chag HaMatzot",
+        "English": "Feast of Unleavened Bread",
+        "Hebrew/Original Words": "חג המצות"
+    },
+    {
+        "Transliteración en Español": "Jag JaShavuot",
+        "Español": "Fiesta de las Semanas",
+        "Transliteration in English": "Chag HaShavuot",
+        "English": "Feast of Weeks or Pentecost",
+        "Hebrew/Original Words": "חג שבועות"
+    },
+    {
+        "Transliteración en Español": "Jag JaSukot",
+        "Español": "Fiesta de los Tabernáculos",
+        "Transliteration in English": "Chag HaSukkot",
+        "English": "Feast of Tabernacles",
+        "Hebrew/Original Words": "חַג סֻכּוֹת"
+    },
+    {
+        "Transliteración en Español": "Jolom",
+        "Español": "Sueño",
+        "Transliteration in English": "Cholom",
+        "English": "Dream",
+        "Hebrew/Original Words": "חֲלוֹם"
+    },
+    {
+        "Transliteración en Español": "Yanokj",
+        "Español": "Enoc",
+        "Transliteration in English": "Chanok",
+        "English": "Enoch",
+        "Hebrew/Original Words": "חֲנוֹךְ"
+    },
+    {
+        "Transliteración en Español": "Javer",
+        "Español": "Amigo",
+        "Transliteration in English": "Chaver",
+        "English": "Friend",
+        "Hebrew/Original Words": "חבר"
+    },
+    {
+        "Transliteración en Español": "Javerim",
+        "Español": "Amigos",
+        "Transliteration in English": "Chaverim",
+        "English": "Friends",
+        "Hebrew/Original Words": "חברים"
+    },
+    {
+        "Transliteración en Español": "Jayim",
+        "Español": "Vida",
+        "Transliteration in English": "Chayim",
+        "English": "Life",
+        "Hebrew/Original Words": "חיים"
+    },
+    {
+        "Transliteración en Español": "Jodesh",
+        "Español": "Mes",
+        "Transliteration in English": "Chodesh",
+        "English": "Month",
+        "Hebrew/Original Words": "חֹדֶשׁ"
+    },
+    {
+        "Transliteración en Español": "Jumash",
+        "Español": "Pentateuco",
+        "Transliteration in English": "Chumash",
+        "English": "Pentateuch",
+        "Hebrew/Original Words": "חומש"
+    },
+    {
+        "Transliteración en Español": "Davar",
+        "Español": "Palabra (sustantivo)\nhablar (verbo)",
+        "Transliteration in English": "Davar",
+        "English": "Word (noun)\nTalk (verb)",
+        "Hebrew/Original Words": "דָּבָר"
+    },
+    {
+        "Transliteración en Español": "Dawid",
+        "Español": "David",
+        "Transliteration in English": "Dawid",
+        "English": "David",
+        "Hebrew/Original Words": "דָּוִד"
+    },
+    {
+        "Transliteración en Español": "Dibrot",
+        "Español": "Palabras",
+        "Transliteration in English": "Dibrot",
+        "English": "Words",
+        "Hebrew/Original Words": "דיברות"
+    },
+    {
+        "Transliteración en Español": "Eber",
+        "Español": "Heber",
+        "Transliteration in English": "Eber",
+        "English": "Eber",
+        "Hebrew/Original Words": "עֵבֵר"
+    },
+    {
+        "Transliteración en Español": "Ejad",
+        "Español": "Unidad",
+        "Transliteration in English": "Echad",
+        "English": "Unity",
+        "Hebrew/Original Words": "אֶחָֽד"
+    },
+    {
+        "Transliteración en Español": "Efrayim",
+        "Español": "Efraim",
+        "Transliteration in English": "Ephrayim",
+        "English": "Ephraim",
+        "Hebrew/Original Words": "אֶפְרַיִם"
+    },
+    {
+        "Transliteración en Español": "Elion",
+        "Español": "Altísimo",
+        "Transliteration in English": "Elyon",
+        "English": "The Most High",
+        "Hebrew/Original Words": "עליון/עֶלְיוֹן"
+    },
+    {
+        "Transliteración en Español": "Elohe",
+        "Español": "Todopoderoso: \nEl Poderoso",
+        "Transliteration in English": "Elohe",
+        "English": "Almighty; Mighty One",
+        "Hebrew/Original Words": "אלה"
+    },
+    {
+        "Transliteración en Español": "Eloheinu",
+        "Español": "Nuestro Todopoderoso",
+        "Transliteration in English": "Eloheinu",
+        "English": "Our Almighty One",
+        "Hebrew/Original Words": "אלהינו"
+    },
+    {
+        "Transliteración en Español": "Elohim",
+        "Español": "Poderosos\n\nEn la Biblia Hebrea a veces se refiere a una sola deidad; particularmente al Elohe de Israel; otras veces se refiere a deidades en plural.\n\nNota: No usamos “elohim” para referirse a Yahweh Elohe de Yisrael.",
+        "Transliteration in English": "Elohim",
+        "English": "Mighty ones\n\nIn the Hebrew Bible, elohim (Hebrew: אֱלֹהִים [(ʔ)eloˈ(h)im]) sometimes refers to a single deity, particularly (but not always) the Elohe of Israel,[1][2] at other times it refers to deities in the plural.\n\nNote: We do not use “elohim” to refer to our Yahweh Elohe of Yisrael.",
+        "Hebrew/Original Words": "אלוהים"
+    },
+    {
+        "Transliteración en Español": "Emet",
+        "Español": "Verdad",
+        "Transliteration in English": "Emet",
+        "English": "Truth",
+        "Hebrew/Original Words": "אמת"
+    },
+    {
+        "Transliteración en Español": "Emuná",
+        "Español": "Fe, fiel, lealtad a Yahweh; verdad y obediencia a su verdad (creer, confianza y obediencia).",
+        "Transliteration in English": "Emunah",
+        "English": "Faith, faithfulness, loyalty to YHWH; truth and obedience to his truth (believe, confidence, obey).",
+        "Hebrew/Original Words": "אמונה"
+    },
+    {
+        "Transliteración en Español": "Erev Tov",
+        "Español": "Buenas noches",
+        "Transliteration in English": "Erev Tov",
+        "English": "Good evening",
+        "Hebrew/Original Words": "ערב טוב"
+    },
+    {
+        "Transliteración en Español": "Eretz",
+        "Español": "La tierra",
+        "Transliteration in English": "Eretz",
+        "English": "The land",
+        "Hebrew/Original Words": "ארץ"
+    },
+    {
+        "Transliteración en Español": "Erusin",
+        "Español": "Compromiso",
+        "Transliteration in English": "Erusin",
+        "English": "Engagement",
+        "Hebrew/Original Words": "אירוסין"
+    },
+    {
+        "Transliteración en Español": "Etz",
+        "Español": "Arbol",
+        "Transliteration in English": "Etz",
+        "English": "Tree",
+        "Hebrew/Original Words": "עֵץ"
+    },
+    {
+        "Transliteración en Español": "Ezra",
+        "Español": "Esdras",
+        "Transliteration in English": "Ezra",
+        "English": "Ezra",
+        "Hebrew/Original Words": "עֶזְרָא"
+    },
+    {
+        "Transliteración en Español": "Gadol",
+        "Español": "Sumo, Principal",
+        "Transliteration in English": "Gadol",
+        "English": "High",
+        "Hebrew/Original Words": "גָּדוֹל"
+    },
+    {
+        "Transliteración en Español": "Guei Ben Jinom/Gehena",
+        "Español": "Guehena: Valle de los hijos de Hinnom;\nlugar utilizado para incinerar los desperdicios de Jerusalén.",
+        "Transliteration in English": "(Gehenna)\nGei Ben-Hinnom",
+        "English": "Gehenna: Valley of the son of Hinnom; place used to incinerate Jerusalem waste.",
+        "Hebrew/Original Words": "גֵּי בֶן־הִנֹּם"
+    },
+    {
+        "Transliteración en Español": "Goyim",
+        "Español": "Gentiles",
+        "Transliteration in English": "Goyim",
+        "English": "Gentiles",
+        "Hebrew/Original Words": "גויים"
+    },
+    {
+        "Transliteración en Español": "Halajá",
+        "Español": "Enseñanza \n(Torah Oral)",
+        "Transliteration in English": "Halacha",
+        "English": "Teaching \n(Oral Torah)",
+        "Hebrew/Original Words": "הֲלָכָה"
+    },
+    {
+        "Transliteración en Español": "Halell/Jalel",
+        "Español": "Exaltacion",
+        "Transliteration in English": "Hallel",
+        "English": "Exaltation",
+        "Hebrew/Original Words": "הלל"
+    },
+    {
+        "Transliteración en Español": "HaSatan/JaSatan",
+        "Español": "El Adversario",
+        "Transliteration in English": "HaSatan",
+        "English": "The Adversary",
+        "Hebrew/Original Words": "השטן"
+    },
+    {
+        "Transliteración en Español": "HaShem/JaShem",
+        "Español": "El Nombre",
+        "Transliteration in English": "HaShem",
+        "English": "The Name",
+        "Hebrew/Original Words": "הא שם"
+    },
+    {
+        "Transliteración en Español": "Huledet",
+        "Español": "Nacimiento",
+        "Transliteration in English": "Huledet",
+        "English": "Birth",
+        "Hebrew/Original Words": "הולדת"
+    },
+    {
+        "Transliteración en Español": "Ima",
+        "Español": "Madre",
+        "Transliteration in English": "Ima",
+        "English": "Mother",
+        "Hebrew/Original Words": "אמא"
+    },
+    {
+        "Transliteración en Español": "Kadosh",
+        "Español": "Santo",
+        "Transliteration in English": "Kadosh",
+        "English": "Holy",
+        "Hebrew/Original Words": "קֹדֶשׁ"
+    },
+    {
+        "Transliteración en Español": "Kadoshim",
+        "Español": "Santos",
+        "Transliteration in English": "Kadoshim",
+        "English": "Holy ones",
+        "Hebrew/Original Words": "קְדֹשִׁים"
+    },
+    {
+        "Transliteración en Español": "Kadusha",
+        "Español": "Santidad",
+        "Transliteration in English": "Kadushah",
+        "English": "Holiness",
+        "Hebrew/Original Words": "קְדֻשָּׁה"
+    },
+    {
+        "Transliteración en Español": "Kajal",
+        "Español": "Pronombre: Comunidad; asamblea, congregación (refiere a toda la comunidad de Israel); verbo: reunirse",
+        "Transliteration in English": "Kahal",
+        "English": "Noun: Community, Assembly, congregation (refers to the whole Israel community: the twelve tribes of Israel); \n(Leviticus 35:1); Verb: Gathering",
+        "Hebrew/Original Words": "קהל"
+    },
+    {
+        "Transliteración en Español": "Kalah",
+        "Español": "Novia (Boda)",
+        "Transliteration in English": "Kallah",
+        "English": "Bride",
+        "Hebrew/Original Words": "כלה"
+    },
+    {
+        "Transliteración en Español": "Kavod",
+        "Español": "Honor, respeto, dignidad",
+        "Transliteration in English": "Kavod",
+        "English": "Honor, respect, dignity",
+        "Hebrew/Original Words": "כבוד"
+    },
+    {
+        "Transliteración en Español": "Kejilah/Kehila",
+        "Español": "Comunidad; congregación",
+        "Transliteration in English": "Kehillah",
+        "English": "Community\nCongregation",
+        "Hebrew/Original Words": "קהילה"
+    },
+    {
+        "Transliteración en Español": "Kejilot",
+        "Español": "Comunidades",
+        "Transliteration in English": "Kehillot",
+        "English": "Communities",
+        "Hebrew/Original Words": "קהילות"
+    },
+    {
+        "Transliteración en Español": "Ketuvim",
+        "Español": "Escritos",
+        "Transliteration in English": "Ketuvim",
+        "English": "Writings",
+        "Hebrew/Original Words": "כתובים"
+    },
+    {
+        "Transliteración en Español": "Kitbé HaKodesh",
+        "Español": "Las Santas Escrituras",
+        "Transliteration in English": "Kitbe HaKodesh",
+        "English": "The Holy Scriptures",
+        "Hebrew/Original Words": "קיטבי הקודש"
+    },
+    {
+        "Transliteración en Español": "Kohanim",
+        "Español": "Sacerdotes",
+        "Transliteration in English": "Kohanim",
+        "English": "Priests",
+        "Hebrew/Original Words": "כֹּהֲנִים"
+    },
+    {
+        "Transliteración en Español": "Kjen",
+        "Español": "Sacerdote, mediador",
+        "Transliteration in English": "Kohen",
+        "English": "Priest, mediator",
+        "Hebrew/Original Words": "כֹּהֵן"
+    },
+    {
+        "Transliteración en Español": "Kohen Gadol",
+        "Español": "Sumo/Principal Sacerdote",
+        "Transliteration in English": "Kohen Gadol",
+        "English": "High Priest",
+        "Hebrew/Original Words": "כהן גדול"
+    },
+    {
+        "Transliteración en Español": "Kosher",
+        "Español": "Limpio, puro",
+        "Transliteration in English": "Kosher",
+        "English": "Clean, pure",
+        "Hebrew/Original Words": "כשר"
+    },
+    {
+        "Transliteración en Español": "Laila Tov",
+        "Español": "Buenas Noches",
+        "Transliteration in English": "Laila Tov",
+        "English": "Good Night",
+        "Hebrew/Original Words": "ליילה טוב"
+    },
+    {
+        "Transliteración en Español": "Lashon Hara",
+        "Español": "Lengua Malvada = Acto de hablar despectivamente de alguien",
+        "Transliteration in English": "Lashon Hara",
+        "English": "Evil Tongue = Act of speaking disparagingly of another person",
+        "Hebrew/Original Words": "לשון הרע"
+    },
+    {
+        "Transliteración en Español": "Le’Olam Vaed",
+        "Español": "El mundo continuará por siempre",
+        "Transliteration in English": "Le’Olam Vaed",
+        "English": "The world shall continue forever",
+        "Hebrew/Original Words": "לְעוֹלָם וָעֶד"
+    },
+    {
+        "Transliteración en Español": "Lejitraot",
+        "Español": "Te veo mas tarde; adios",
+        "Transliteration in English": "Lehitraot",
+        "English": "See you later; goodbye",
+        "Hebrew/Original Words": "לְהִתְרָאוֹת"
+    },
+    {
+        "Transliteración en Español": "Lev",
+        "Español": "Corazon",
+        "Transliteration in English": "Lev",
+        "English": "Heart",
+        "Hebrew/Original Words": "לֵב"
+    },
+    {
+        "Transliteración en Español": "Levavot",
+        "Español": "Corazones",
+        "Transliteration in English": "Levavot",
+        "English": "Hearts",
+        "Hebrew/Original Words": "לבבות"
+    },
+    {
+        "Transliteración en Español": "Melaj",
+        "Español": "Angel; mensajero",
+        "Transliteration in English": "Malach",
+        "English": "Angel; messenger",
+        "Hebrew/Original Words": "מַלְאַךְ"
+    },
+    {
+        "Transliteración en Español": "Melajim",
+        "Español": "Angeles; mensajeros",
+        "Transliteration in English": "Malachim",
+        "English": "Angels; messengers",
+        "Hebrew/Original Words": "מלאכים"
+    },
+    {
+        "Transliteración en Español": "Maljut",
+        "Español": "Reino",
+        "Transliteration in English": "Malchut",
+        "English": "Kingdom",
+        "Hebrew/Original Words": "מלכות"
+    },
+    {
+        "Transliteración en Español": "Malkeinu",
+        "Español": "Nuestro Rey",
+        "Transliteration in English": "Malcheinu",
+        "English": "Our King",
+        "Hebrew/Original Words": "מַלְכֵּנוּ"
+    },
+    {
+        "Transliteración en Español": "",
+        "Español": "",
+        "Transliteration in English": "Mabul ?",
+        "English": "Flood",
+        "Hebrew/Original Words": "?"
+    },
+    {
+        "Transliteración en Español": "Mashal",
+        "Español": "Parabola/Alegoria",
+        "Transliteration in English": "Mashal",
+        "English": "Parable/Allegory",
+        "Hebrew/Original Words": "משעל"
+    },
+    {
+        "Transliteración en Español": "Mashiaj",
+        "Español": "Mesías",
+        "Transliteration in English": "Mashiyach/\nMashiach",
+        "English": "Messiah",
+        "Hebrew/Original Words": "מָשִׁיחַ"
+    },
+    {
+        "Transliteración en Español": "Mayim",
+        "Español": "Agua",
+        "Transliteration in English": "Mayim",
+        "English": "Water",
+        "Hebrew/Original Words": "מַיִם"
+    },
+    {
+        "Transliteración en Español": "Melea",
+        "Español": "Plenitud",
+        "Transliteration in English": "Meleah",
+        "English": "Fullness",
+        "Hebrew/Original Words": "מְלֵאָה"
+    },
+    {
+        "Transliteración en Español": "Melej",
+        "Español": "Rey",
+        "Transliteration in English": "Melech",
+        "English": "King",
+        "Hebrew/Original Words": "מלך"
+    },
+    {
+        "Transliteración en Español": "Melo HaGoyim",
+        "Español": "La Plenitud de los Gentiles",
+        "Transliteration in English": "Meloh HaGoyim",
+        "English": "The Fullness of Gentiles",
+        "Hebrew/Original Words": "מלא הגוים"
+    },
+    {
+        "Transliteración en Español": "Mikve",
+        "Español": "Purificación/ inmersión; ritual de inmersión",
+        "Transliteration in English": "Mikveh",
+        "English": "Purification immersion; immersion ritual",
+        "Hebrew/Original Words": "מקווה"
+    },
+    {
+        "Transliteración en Español": "Midbar",
+        "Español": "Desierto/lugar  desolado",
+        "Transliteration in English": "Midbar",
+        "English": "Desert/desolate place",
+        "Hebrew/Original Words": "מִדְבָּר"
+    },
+    {
+        "Transliteración en Español": "Miryam",
+        "Español": "María",
+        "Transliteration in English": "Miryam",
+        "English": "Mary",
+        "Hebrew/Original Words": "מִרְיָם"
+    },
+    {
+        "Transliteración en Español": "Mishkan",
+        "Español": "Tabernáculo",
+        "Transliteration in English": "Mishkan",
+        "English": "Tabernacle",
+        "Hebrew/Original Words": "מִשְׁכָּן"
+    },
+    {
+        "Transliteración en Español": "Mishpaja",
+        "Español": "Familia",
+        "Transliteration in English": "Mishpachah",
+        "English": "Family",
+        "Hebrew/Original Words": "משפחה"
+    },
+    {
+        "Transliteración en Español": "Mitzrayim",
+        "Español": "Egipto",
+        "Transliteration in English": "Mitzrayim",
+        "English": "Egipt",
+        "Hebrew/Original Words": "מִצְרַיִם"
+    },
+    {
+        "Transliteración en Español": "Mitzvah",
+        "Español": "Mandamiento/\nprecepto",
+        "Transliteration in English": "Mitzvah",
+        "English": "Commandment/ precept",
+        "Hebrew/Original Words": "מצווה"
+    },
+    {
+        "Transliteración en Español": "Mitzvot",
+        "Español": "Mandamientos/\npreceptos",
+        "Transliteration in English": "Mitzvot",
+        "English": "Commandments/ precepts",
+        "Hebrew/Original Words": "מצוות"
+    },
+    {
+        "Transliteración en Español": "Moed",
+        "Español": "Tiempo señalado, cita santa (fiesta de conmemoración)",
+        "Transliteration in English": "Moed",
+        "English": "Appointed time, holy convocation (commemoration feast)",
+        "Hebrew/Original Words": "מועד"
+    },
+    {
+        "Transliteración en Español": "Moedim",
+        "Español": "Tiempos señalados, citas santas (fiestas de conmemoración)",
+        "Transliteration in English": "Moedim",
+        "English": "Appointed times, holy convocations (commemorations feasts)",
+        "Hebrew/Original Words": "מועדים"
+    },
+    {
+        "Transliteración en Español": "Moreh",
+        "Español": "Maestro",
+        "Transliteration in English": "Moreh",
+        "English": "Teacher",
+        "Hebrew/Original Words": "מורה"
+    },
+    {
+        "Transliteración en Español": "Morehim",
+        "Español": "Maestros",
+        "Transliteration in English": "Morehim",
+        "English": "Teachers",
+        "Hebrew/Original Words": "מורהים"
+    },
+    {
+        "Transliteración en Español": "Moshé",
+        "Español": "Moisés",
+        "Transliteration in English": "Mosheh",
+        "English": "Moses",
+        "Hebrew/Original Words": "משה"
+    },
+    {
+        "Transliteración en Español": "Naví",
+        "Español": "Profeta",
+        "Transliteration in English": "Navi",
+        "English": "Prophet",
+        "Hebrew/Original Words": "נביא"
+    },
+    {
+        "Transliteración en Español": "Nevi'im",
+        "Español": "Profetas",
+        "Transliteration in English": "Neviʾim",
+        "English": "Prophets",
+        "Hebrew/Original Words": "נְבִיאִים"
+    },
+    {
+        "Transliteración en Español": "Nisuin",
+        "Español": "Matrimonio",
+        "Transliteration in English": "Nissuin",
+        "English": "Marriage",
+        "Hebrew/Original Words": "נישואין"
+    },
+    {
+        "Transliteración en Español": "Noaj",
+        "Español": "Noé",
+        "Transliteration in English": "Noach",
+        "English": "Noah",
+        "Hebrew/Original Words": "נֹחַ"
+    },
+    {
+        "Transliteración en Español": "HaOlam",
+        "Español": "El Mundo",
+        "Transliteration in English": "Olam",
+        "English": "The world",
+        "Hebrew/Original Words": "עוֹלָם"
+    },
+    {
+        "Transliteración en Español": "Olam HaBa",
+        "Español": "El mundo venidero; era por venir",
+        "Transliteration in English": "Olam HaBa",
+        "English": "The world to come; era or time to come",
+        "Hebrew/Original Words": "עולם הבא"
+    },
+    {
+        "Transliteración en Español": "Olam HaZeh",
+        "Español": "Tiempo presente; era presente",
+        "Transliteration in English": "Olam Hazeh",
+        "English": "The present world; era or present time",
+        "Hebrew/Original Words": "עולם הזה"
+    },
+    {
+        "Transliteración en Español": "Parashá",
+        "Español": "Porción o sección de las Sagradas Escrituras",
+        "Transliteration in English": "Parashah",
+        "English": "Portion or section of the Holy Scriptures",
+        "Hebrew/Original Words": "פָּרָשָׁה"
+    },
+    {
+        "Transliteración en Español": "Pasuk",
+        "Español": "Versículo",
+        "Transliteration in English": "Pasuk",
+        "English": "Verse",
+        "Hebrew/Original Words": "פסוק"
+    },
+    {
+        "Transliteración en Español": "Pasukim",
+        "Español": "Versículos",
+        "Transliteration in English": "Pasukim",
+        "English": "Verses",
+        "Hebrew/Original Words": "פסוקים"
+    },
+    {
+        "Transliteración en Español": "Pesaj",
+        "Español": "Pascua",
+        "Transliteration in English": "Pesach",
+        "English": "Passover",
+        "Hebrew/Original Words": "פֶּסַח"
+    },
+    {
+        "Transliteración en Español": "Pesayim",
+        "Español": "Transgresiones",
+        "Transliteration in English": "Peshayim",
+        "English": "Transgressions",
+        "Hebrew/Original Words": "פֶשַׁעים"
+    },
+    {
+        "Transliteración en Español": "Rabah",
+        "Español": "Muchos, suficiente, grande (Todah Rabah: Muchas Gracias)",
+        "Transliteration in English": "Rabah",
+        "English": "Many, much, great, enough (Todah Rabah: Thank you very much)",
+        "Hebrew/Original Words": "רַבָּה"
+    },
+    {
+        "Transliteración en Español": "Rajem",
+        "Español": "Verbo: Amar, tener compasión",
+        "Transliteration in English": "Rachem",
+        "English": "Verb: To love or have compassion",
+        "Hebrew/Original Words": "רָחַם"
+    },
+    {
+        "Transliteración en Español": "Rajamim",
+        "Español": "Pronombre: Misericordia, compasión",
+        "Transliteration in English": "Rachamim",
+        "English": "Noun: Mercy, compassion.",
+        "Hebrew/Original Words": "רחמים"
+    },
+    {
+        "Transliteración en Español": "Rosh Jodesh",
+        "Español": "Comienzo de mes",
+        "Transliteration in English": "Rosh Chodesh",
+        "English": "Beginning of the month",
+        "Hebrew/Original Words": "ראש חודש"
+    },
+    {
+        "Transliteración en Español": "Rosh HaShanah",
+        "Español": "El Año Nuevo",
+        "Transliteration in English": "Rosh HaShanah",
+        "English": "The New Year",
+        "Hebrew/Original Words": "רֹאשׁ הַשָּׁנָה"
+    },
+    {
+        "Transliteración en Español": "Ruaj",
+        "Español": "Espíritu, Viento, Poder",
+        "Transliteration in English": "Ruach",
+        "English": "Spirit",
+        "Hebrew/Original Words": "רוּחַ"
+    },
+    {
+        "Transliteración en Español": "Sefer",
+        "Español": "Rollo/ libro",
+        "Transliteration in English": "Sepher",
+        "English": "Scroll/ book",
+        "Hebrew/Original Words": "ספר"
+    },
+    {
+        "Transliteración en Español": "Sefer HaMakabim",
+        "Español": "Macabeos",
+        "Transliteration in English": "Sepher HaMakabim",
+        "English": "Maccabees",
+        "Hebrew/Original Words": "מקבים"
+    },
+    {
+        "Transliteración en Español": "Shabbat",
+        "Español": "Descanso/ Cesar del trabajo/desistir",
+        "Transliteration in English": "Shabbat",
+        "English": "Rest/ Cease from labor/desist",
+        "Hebrew/Original Words": "שבת"
+    },
+    {
+        "Transliteración en Español": "Shabbaton",
+        "Español": "Shabbat Alto: Un evento o fiesta que coincide con el día de Shabbat.",
+        "Transliteration in English": "Shabbaton",
+        "English": "Great Shabbat: An event or feast that is held on Shabbat day.",
+        "Hebrew/Original Words": "שַׁבָּתוֹן"
+    },
+    {
+        "Transliteración en Español": "Shalom",
+        "Español": "Paz/ Terminación o integridad/ significa más que la ausencia de guerra o violencia/ terminación espiritual",
+        "Transliteration in English": "Shalom",
+        "English": "Peace/ Completion or wholeness/ means more than just an absence of warfare and violence/ spiritual completeness.",
+        "Hebrew/Original Words": "שלום"
+    },
+    {
+        "Transliteración en Español": "Shalaj",
+        "Español": "Enviado (por Yahweh)\nApostol",
+        "Transliteration in English": "Shalach",
+        "English": "To send (by Yahweh);\nApostle",
+        "Hebrew/Original Words": "שָׁלַח"
+    },
+    {
+        "Transliteración en Español": "Shalujim",
+        "Español": "Los enviados;  Mensajeros\nApóstoles",
+        "Transliteration in English": "Shaluchim",
+        "English": "The sent ones; Messengers of Yahweh\nApostles",
+        "Hebrew/Original Words": "שלוחים"
+    },
+    {
+        "Transliteración en Español": "Shamayim",
+        "Español": "Cielo",
+        "Transliteration in English": "Shamayim",
+        "English": "Heaven",
+        "Hebrew/Original Words": "שָׁמַיִם"
+    },
+    {
+        "Transliteración en Español": "Shanah",
+        "Español": "Año",
+        "Transliteration in English": "Shanah",
+        "English": "Year",
+        "Hebrew/Original Words": "שָׁנָה"
+    },
+    {
+        "Transliteración en Español": "Shavua",
+        "Español": "Semana",
+        "Transliteration in English": "Shavua",
+        "English": "Week",
+        "Hebrew/Original Words": "שבוע"
+    },
+    {
+        "Transliteración en Español": "Shavuot",
+        "Español": "Semanas",
+        "Transliteration in English": "Shavuot",
+        "English": "Weeks",
+        "Hebrew/Original Words": "שבועות"
+    },
+    {
+        "Transliteración en Español": "Shem",
+        "Español": "Nombre",
+        "Transliteration in English": "Shem",
+        "English": "Name",
+        "Hebrew/Original Words": "שֵׁם"
+    },
+    {
+        "Transliteración en Español": "Shema",
+        "Español": "Escucha (escuchar inteligentemente; obedecer)",
+        "Transliteration in English": "Shema",
+        "English": "Hear (listen intelligently; to obey)",
+        "Hebrew/Original Words": "שמע"
+    },
+    {
+        "Transliteración en Español": "Shem HaMeforash",
+        "Español": "El Nombre Explícito",
+        "Transliteration in English": "Shem HaMephorash",
+        "English": "The Explicit Name",
+        "Hebrew/Original Words": "שם המפורש"
+    },
+    {
+        "Transliteración en Español": "Sheol",
+        "Español": "Seol: Mundo de los muertos (como si fuera retiro subterráneo) H7585\nSepulcro o sepultura",
+        "Transliteration in English": "Sheol",
+        "English": "Sheol: Underworld (place to which people descend at death) H7585\n\nTomb or grave",
+        "Hebrew/Original Words": "שְׁאוֹל"
+    },
+    {
+        "Transliteración en Español": "Shelomo",
+        "Español": "Salomon",
+        "Transliteration in English": "Shlomoh",
+        "English": "Salomon",
+        "Hebrew/Original Words": "שְׁלֹמֹה"
+    },
+    {
+        "Transliteración en Español": "Simja",
+        "Español": "Alegría",
+        "Transliteration in English": "Simcha",
+        "English": "Gladness, joy",
+        "Hebrew/Original Words": "שמחה"
+    },
+    {
+        "Transliteración en Español": "Sukkot",
+        "Español": "Tabernáculos",
+        "Transliteration in English": "Sukkot",
+        "English": "Tabernacles",
+        "Hebrew/Original Words": "סֻכּוֹת"
+    },
+    {
+        "Transliteración en Español": "Talmid",
+        "Español": "Estudiante, discípulos",
+        "Transliteration in English": "Talmid",
+        "English": "Student, disciple",
+        "Hebrew/Original Words": "תלמיד"
+    },
+    {
+        "Transliteración en Español": "Talmidim",
+        "Español": "Estudiantes; discípulos",
+        "Transliteration in English": "Talmidim",
+        "English": "Students, disciples",
+        "Hebrew/Original Words": "תלמידים"
+    },
+    {
+        "Transliteración en Español": "",
+        "Español": "Integridad",
+        "Transliteration in English": "Tamim ?",
+        "English": "Integrity",
+        "Hebrew/Original Words": ""
+    },
+    {
+        "Transliteración en Español": "Tanaj",
+        "Español": "Escritos Sagrados; Escritos que incluyen los libros de la ley \n(Torah, los profetas y los escritos)",
+        "Transliteration in English": "Tanakh",
+        "English": "Sacred Writings; Scriptures comprising the books of the law (Torah, the prophets and writings)",
+        "Hebrew/Original Words": "תנך"
+    },
+    {
+        "Transliteración en Español": "Tefilah",
+        "Español": "Oración",
+        "Transliteration in English": "Tephillah",
+        "English": "Prayer",
+        "Hebrew/Original Words": "תפילה"
+    },
+    {
+        "Transliteración en Español": "Tefilot",
+        "Español": "Oraciones",
+        "Transliteration in English": "Tefilot",
+        "English": "Prayers",
+        "Hebrew/Original Words": "תפילות"
+    },
+    {
+        "Transliteración en Español": "Teshuvah",
+        "Español": "Arrepentimiento: Profunda contrición por el pecado; retornar a Yahweh; reparar el daño hecho.",
+        "Transliteration in English": "Teshuvah",
+        "English": "Repentance: Deep contrition for sin; return to Yahweh; repair the damage done.",
+        "Hebrew/Original Words": "תשובה"
+    },
+    {
+        "Transliteración en Español": "Tevilah",
+        "Español": "Inmersión en agua; ritual de purificación.",
+        "Transliteration in English": "Tevilah",
+        "English": "Immersion in water; ritual of purification",
+        "Hebrew/Original Words": "טְבִילָה"
+    },
+    {
+        "Transliteración en Español": "Tevilot",
+        "Español": "Inmersiones",
+        "Transliteration in English": "Tevilot",
+        "English": "Immersions",
+        "Hebrew/Original Words": "טְבִילוֹת"
+    },
+    {
+        "Transliteración en Español": "Tiferet",
+        "Español": "Gloria",
+        "Transliteration in English": "Tiphereth",
+        "English": "Glory",
+        "Hebrew/Original Words": "תִּפְאֶרֶת"
+    },
+    {
+        "Transliteración en Español": "Todah Rabah",
+        "Español": "Muchas Gracias",
+        "Transliteration in English": "Todah Rabah",
+        "English": "Thank You Very Much",
+        "Hebrew/Original Words": "תּוֹדָה רַבָּה"
+    },
+    {
+        "Transliteración en Español": "Torah",
+        "Español": "Instrucción o Ley de Yahweh",
+        "Transliteration in English": "Torah",
+        "English": "Instruction or Law of Yahweh",
+        "Hebrew/Original Words": "תּוֹרָה"
+    },
+    {
+        "Transliteración en Español": "Tov",
+        "Español": "Bueno",
+        "Transliteration in English": "Tov",
+        "English": "Good",
+        "Hebrew/Original Words": "טוב"
+    },
+    {
+        "Transliteración en Español": "Zadik",
+        "Español": "Justo",
+        "Transliteration in English": "Tzadik",
+        "English": "Righteous",
+        "Hebrew/Original Words": "צַדִּיק"
+    },
+    {
+        "Transliteración en Español": "Zedaka",
+        "Español": "Justicia, rectitud",
+        "Transliteration in English": "Tzedaka",
+        "English": "Justice, righteousness",
+        "Hebrew/Original Words": "צְדָקָה"
+    },
+    {
+        "Transliteración en Español": "Tzitzit",
+        "Español": "Fleco",
+        "Transliteration in English": "Tzitzit",
+        "English": "Fringe",
+        "Hebrew/Original Words": "צִיצִית"
+    },
+    {
+        "Transliteración en Español": "Tzitziyot",
+        "Español": "Flecos",
+        "Transliteration in English": "Tzitziyot",
+        "English": "Fringes",
+        "Hebrew/Original Words": "צִיצִיּוֹת"
+    },
+    {
+        "Transliteración en Español": "Tzojaraim Tovim",
+        "Español": "Buenas tardes",
+        "Transliteration in English": "Tzoharaim Tovim",
+        "English": "Good afternoon",
+        "Hebrew/Original Words": "צהריים טובים"
+    },
+    {
+        "Transliteración en Español": "Tzur",
+        "Español": "Roca",
+        "Transliteration in English": "Tzur",
+        "English": "Rock",
+        "Hebrew/Original Words": "צוּר"
+    },
+    {
+        "Transliteración en Español": "Tzeva'ot",
+        "Español": "Hueste o ejércitos; \nYHWH Elohe Tzva'ot,\nYahweh Elohe de los Ejércitos",
+        "Transliteration in English": "Tzva'ot",
+        "English": "Host or armies: \nYHWH Elohe Tzeva’ot, \nYahweh Elohe of Armies",
+        "Hebrew/Original Words": "צבאות"
+    },
+    {
+        "Transliteración en Español": "Uriel",
+        "Español": "Uriel",
+        "Transliteration in English": "Uriel",
+        "English": "Uriel",
+        "Hebrew/Original Words": "אוּרִיאֵל"
+    },
+    {
+        "Transliteración en Español": "Vajesed",
+        "Español": "Favor",
+        "Transliteration in English": "Vachesed",
+        "English": "Grace, favor, mercy",
+        "Hebrew/Original Words": "וָחֶ֣סֶד"
+    },
+    {
+        "Transliteración en Español": "Ya'akov",
+        "Español": "Jacob",
+        "Transliteration in English": "Ya'akov",
+        "English": "Jacob",
+        "Hebrew/Original Words": "יַעֲקֹב"
+    },
+    {
+        "Transliteración en Español": "Yahuda",
+        "Español": "Judá: La tribu de Judá",
+        "Transliteration in English": "Yahudah",
+        "English": "Judah: Tribe of Judah",
+        "Hebrew/Original Words": "יָהּוּדָה"
+    },
+    {
+        "Transliteración en Español": "Yahudi",
+        "Español": "Judio",
+        "Transliteration in English": "Yahudi",
+        "English": "Jew",
+        "Hebrew/Original Words": "יָהּוּדִי"
+    },
+    {
+        "Transliteración en Español": "Yahudim",
+        "Español": "Judios (sustantivo)",
+        "Transliteration in English": "Yahudim",
+        "English": "Jews (noun)\nJewish (adjective)",
+        "Hebrew/Original Words": "יָהּוּדִי"
+    },
+    {
+        "Transliteración en Español": "Yahrushalaim",
+        "Español": "Jerusalén",
+        "Transliteration in English": "Yahrushalayim",
+        "English": "Jerusalem",
+        "Hebrew/Original Words": "ירושלים"
+    },
+    {
+        "Transliteración en Español": "Yahweh",
+        "Español": "Seré el que Seré",
+        "Transliteration in English": "Yahweh",
+        "English": "I am who I am",
+        "Hebrew/Original Words": "יהוה"
+    },
+    {
+        "Transliteración en Español": "Yahshua",
+        "Español": "Salvación de Yahweh",
+        "Transliteration in English": "Yahshua",
+        "English": "Salvation of Yahweh",
+        "Hebrew/Original Words": "ישוע"
+    },
+    {
+        "Transliteración en Español": "Yamim",
+        "Español": "Días",
+        "Transliteration in English": "Yamim",
+        "English": "Days",
+        "Hebrew/Original Words": "ימים"
+    },
+    {
+        "Transliteración en Español": "Yareaj",
+        "Español": "Luna",
+        "Transliteration in English": "Yareach",
+        "English": "Moon",
+        "Hebrew/Original Words": "יָרֵחַ"
+    },
+    {
+        "Transliteración en Español": "Yeraj",
+        "Español": "Mes",
+        "Transliteration in English": "Yerach",
+        "English": "Month",
+        "Hebrew/Original Words": "יֶרַח"
+    },
+    {
+        "Transliteración en Español": "Yitzjak",
+        "Español": "Isaac",
+        "Transliteration in English": "Yitzhak",
+        "English": "Isaac",
+        "Hebrew/Original Words": "יִצְחָק"
+    },
+    {
+        "Transliteración en Español": "Yosef",
+        "Español": "José",
+        "Transliteration in English": "Yoseph",
+        "English": "Joseph",
+        "Hebrew/Original Words": "יְהוֹסֵף"
+    },
+    {
+        "Transliteración en Español": "Yom",
+        "Español": "Día",
+        "Transliteration in English": "Yom",
+        "English": "Day",
+        "Hebrew/Original Words": "יום"
+    },
+    {
+        "Transliteración en Español": "Yom Kippur",
+        "Español": "Día de Perdón",
+        "Transliteration in English": "Yom Kippur",
+        "English": "Day of Atonement",
+        "Hebrew/Original Words": "יום הכיפורים"
+    },
+    {
+        "Transliteración en Español": "Yom Teruah",
+        "Español": "Día de las Trompetas",
+        "Transliteration in English": "Yom Teruah",
+        "English": "Day of Trumpets",
+        "Hebrew/Original Words": "יום תְּרוּעָה"
+    },
+    {
+        "Transliteración en Español": "Zajal",
+        "Español": "Gozo",
+        "Transliteration in English": "Zahal",
+        "English": "Joy",
+        "Hebrew/Original Words": "צה\"ל"
+    }
+]

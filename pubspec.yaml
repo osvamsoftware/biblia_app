@@ -2,7 +2,6 @@ name: biblia_app
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
@@ -20,6 +19,7 @@ dependencies:
   shared_preferences: ^2.2.3
   syncfusion_flutter_pdfviewer: ^26.2.8
   url_launcher: ^6.3.0
+  win32: ^5.5.4
 
 dev_dependencies:
   flutter_lints: ^3.0.0

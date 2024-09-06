@@ -13,6 +13,8 @@ class BritJadashaCubit extends Cubit<BritJadashaState> {
     try {
       final tanaj = await _tanajRepository.fetchBritFromAssets();
       emit(state.copyWith(tanajData: tanaj));
-    } catch (e) {}
+    } catch (e) {
+      emit(state);
+    }
   }
 }

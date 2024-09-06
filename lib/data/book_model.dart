@@ -4,7 +4,7 @@ class BookModel {
   final String? nombre;
   final Info? info;
   final List<String>? referencias;
-  final Map<String, Map<String, Captulo>>? captulos;
+  final Map<String, Map<String, String>>? captulos;
 
   BookModel({
     this.nombre,
@@ -17,7 +17,7 @@ class BookModel {
     String? nombre,
     Info? info,
     List<String>? referencias,
-    Map<String, Map<String, Captulo>>? captulos,
+    Map<String, Map<String, String>>? captulos,
   }) =>
       BookModel(
         nombre: nombre ?? this.nombre,
@@ -34,49 +34,16 @@ class BookModel {
         nombre: json["nombre"],
         info: json["info"] == null ? null : Info.fromMap(json["info"]),
         referencias: json["referencias"] == null ? [] : List<String>.from(json["referencias"]!.map((x) => x)),
-        captulos: Map.from(json["capítulos"]!).map((k, v) => MapEntry<String, Map<String, Captulo>>(
-            k, Map.from(v).map((k, v) => MapEntry<String, Captulo>(k, Captulo.fromMap(v))))),
+        captulos: Map.from(json["capítulos"]!).map((k, v) =>
+            MapEntry<String, Map<String, String>>(k, Map.from(v).map((k, v) => MapEntry<String, String>(k, v)))),
       );
 
   Map<String, dynamic> toMap() => {
         "nombre": nombre,
         "info": info?.toMap(),
         "referencias": referencias == null ? [] : List<dynamic>.from(referencias!.map((x) => x)),
-        "capítulos": Map.from(captulos!).map(
-            (k, v) => MapEntry<String, dynamic>(k, Map.from(v).map((k, v) => MapEntry<String, dynamic>(k, v.toMap())))),
-      };
-}
-
-class Captulo {
-  final String? texto;
-  final List<String>? referencias;
-
-  Captulo({
-    this.texto,
-    this.referencias,
-  });
-
-  Captulo copyWith({
-    String? texto,
-    List<String>? referencias,
-  }) =>
-      Captulo(
-        texto: texto ?? this.texto,
-        referencias: referencias ?? this.referencias,
-      );
-
-  factory Captulo.fromJson(String str) => Captulo.fromMap(json.decode(str));
-
-  String toJson() => json.encode(toMap());
-
-  factory Captulo.fromMap(Map<String, dynamic> json) => Captulo(
-        texto: json["texto"],
-        referencias: json["referencias"] == null ? [] : List<String>.from(json["referencias"]!.map((x) => x)),
-      );
-
-  Map<String, dynamic> toMap() => {
-        "texto": texto,
-        "referencias": referencias == null ? [] : List<dynamic>.from(referencias!.map((x) => x)),
+        "capítulos": Map.from(captulos!)
+            .map((k, v) => MapEntry<String, dynamic>(k, Map.from(v).map((k, v) => MapEntry<String, dynamic>(k, v)))),
       };
 }
 
